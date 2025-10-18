@@ -12,7 +12,7 @@
 <p align="left">
   🎓 Sou estudante de Engenharia em telecomunicações na Universidade de Pernambuco.<br>
   💡 Tenho grande interesse em desenvolvimento Júnior, com foco em Python e Análise de Dados.<br>
-  🚀 Atualmente, atuo como Analista de Dados, trabalhando com integração de CRM, desenvolvedor full stack, modelagem de dados e tecnologias em nuvem.<br>
+  🚀 Atualmente, atuo como Desesenvolvedor jr, trabalhando com integração de CRM, banco de dados relacionais, Machine Learning.<br>
   📫 lucanascimentos@gmail.com.
 </p>
 
