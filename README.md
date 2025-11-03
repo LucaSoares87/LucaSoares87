@@ -1,6 +1,6 @@
 ### Olá, eu sou o Luca Soares! 👋
 <a href="https://github.com/LucaSoares87">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=LucaSoares87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&dummy=1"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=LucaSoares87&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </a>
 <a href="https://github.com/LucaSoares87">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucaSoares87&layout=compact&langs_count=8&theme=dracula&dummy=1"/>
